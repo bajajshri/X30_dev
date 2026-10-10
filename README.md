@@ -1,2 +1,2 @@
 # X30_dev
-Currently X30
+X30 stack
